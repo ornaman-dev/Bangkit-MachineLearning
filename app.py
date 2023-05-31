@@ -22,7 +22,7 @@ with st.spinner('Compiling & Load the model..'):
                 metrics = ['accuracy'])
 
 with col1:
-    uploaded_files = st.file_uploader("Choose a file", type=['png', 'jpg'])
+    uploaded_files = st.file_uploader("Choose a file", type=['png', 'jpg','jpeg'])
     if uploaded_files is not None:
         bytes_data = uploaded_files.getvalue()
         st.image(bytes_data)
