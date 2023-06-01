@@ -1,138 +1,51 @@
-,Unnamed: 0,User_id,Plant Name,Favorite
-0,0.0,0,Lidah Mertua,1
-1,1.0,1,Lili Paris,1
-2,2.0,1,Monstrea,1
-3,3.0,1,Lidah Mertua,1
-4,4.0,1,Gelombang Cinta,1
-5,5.0,1,Pucuk Merah,1
-6,6.0,2,Agglonema,1
-7,7.0,2,Lili Paris,1
-8,8.0,2,Alocasia,1
-9,9.0,2,Monstrea,1
-10,10.0,2,Lidah Mertua,1
-11,11.0,2,Gelombang Cinta,1
-12,12.0,2,Suplir,1
-13,13.0,3,Agglonema,1
-14,14.0,3,Lili Paris,1
-15,15.0,3,Alocasia,1
-16,16.0,3,Monstrea,1
-17,17.0,3,Gelombang Cinta,1
-18,18.0,4,Agglonema,1
-19,19.0,4,Lili Paris,1
-20,20.0,4,Alocasia,1
-21,21.0,5,Agglonema,1
-22,22.0,5,Lili Paris,1
-23,23.0,5,Alocasia,1
-24,24.0,6,Agglonema,1
-25,25.0,6,Lili Paris,1
-26,26.0,6,Alocasia,1
-27,27.0,6,Monstrea,1
-28,28.0,6,Gelombang Cinta,1
-29,29.0,6,Suplir,1
-30,30.0,7,Agglonema,1
-31,31.0,7,Monstrea,1
-32,32.0,7,Gelombang Cinta,1
-33,33.0,8,Alocasia,1
-34,34.0,8,Pucuk Merah,1
-35,35.0,9,Lidah Mertua,1
-36,36.0,10,Agglonema,1
-37,37.0,10,Lili Paris,1
-38,38.0,10,Pucuk Merah,1
-39,39.0,11,Lili Paris,1
-40,40.0,11,Monstrea,1
-41,41.0,12,Lidah Mertua,1
-42,42.0,12,Gelombang Cinta,1
-43,43.0,13,Lili Paris,1
-44,44.0,13,Lidah Mertua,1
-45,45.0,13,Pucuk Merah,1
-46,46.0,14,Agglonema,1
-47,47.0,14,Monstrea,1
-48,48.0,14,Lidah Mertua,1
-49,49.0,15,Alocasia,1
-50,50.0,15,Monstrea,1
-51,51.0,16,Monstrea,1
-52,52.0,17,Agglonema,1
-53,53.0,17,Monstrea,1
-54,54.0,17,Pucuk Merah,1
-55,55.0,18,Agglonema,1
-56,56.0,18,Lili Paris,1
-57,57.0,18,Monstrea,1
-58,58.0,18,Lidah Mertua,1
-59,59.0,18,Gelombang Cinta,1
-60,60.0,18,Suplir,1
-61,61.0,19,Agglonema,1
-62,62.0,19,Lili Paris,1
-63,63.0,19,Alocasia,1
-64,64.0,19,Monstrea,1
-65,65.0,19,Lidah Mertua,1
-66,66.0,19,Gelombang Cinta,1
-67,67.0,19,Suplir,1
-68,68.0,19,Pucuk Merah,1
-69,69.0,20,Agglonema,1
-70,70.0,20,Lili Paris,1
-71,71.0,20,Alocasia,1
-72,72.0,20,Lidah Mertua,1
-73,73.0,20,Gelombang Cinta,1
-74,74.0,20,Pucuk Merah,1
-75,75.0,21,Agglonema,1
-76,76.0,21,Lili Paris,1
-77,77.0,21,Lidah Mertua,1
-78,78.0,22,Agglonema,1
-79,79.0,23,Agglonema,1
-80,80.0,23,Alocasia,1
-81,81.0,23,Suplir,1
-82,82.0,24,Monstrea,1
-83,83.0,24,Lidah Mertua,1
-84,84.0,24,Pucuk Merah,1
-85,85.0,25,Monstrea,1
-86,86.0,26,Suplir,1
-87,87.0,27,Agglonema,1
-88,88.0,27,Pucuk Merah,1
-89,89.0,28,Lili Paris,1
-90,90.0,28,Lidah Mertua,1
-91,91.0,28,Pucuk Merah,1
-92,92.0,29,Agglonema,1
-93,93.0,29,Alocasia,1
-94,94.0,29,Gelombang Cinta,1
-95,95.0,29,Pucuk Merah,1
-96,96.0,30,Monstrea,1
-97,97.0,31,Agglonema,1
-98,98.0,31,Lili Paris,1
-99,99.0,31,Pucuk Merah,1
-100,100.0,32,Monstrea,1
-101,101.0,32,Lidah Mertua,1
-102,102.0,32,Pucuk Merah,1
-103,103.0,33,Monstrea,1
-104,104.0,34,Monstrea,1
-105,105.0,35,Alocasia,1
-106,106.0,35,Monstrea,1
-107,107.0,35,Gelombang Cinta,1
-108,108.0,36,Agglonema,1
-109,109.0,36,Monstrea,1
-110,110.0,37,Agglonema,1
-111,111.0,37,Monstrea,1
-112,112.0,37,Pucuk Merah,1
-113,113.0,38,Lili Paris,1
-114,114.0,38,Alocasia,1
-115,115.0,38,Pucuk Merah,1
-116,116.0,39,Monstrea,1
-117,117.0,39,Lidah Mertua,1
-118,118.0,40,Agglonema,1
-119,119.0,41,Agglonema,1
-120,120.0,41,Monstrea,1
-121,121.0,41,Lidah Mertua,1
-122,122.0,42,Agglonema,1
-123,123.0,43,Agglonema,1
-124,124.0,43,Alocasia,1
-125,125.0,43,Monstrea,1
-126,126.0,44,Agglonema,1
-127,127.0,44,Alocasia,1
-128,128.0,44,Monstrea,1
-129,129.0,45,Lili Paris,1
-130,130.0,45,Monstrea,1
-131,131.0,45,Lidah Mertua,1
-132,132.0,45,Pucuk Merah,1
-133,133.0,46,Lili Paris,1
-134,,47,Agglonema,1
-135,,47,Lili Paris,1
-136,,47,Alocasia,1
+"Timestamp","Chose your favorite ornamental plant
+
+Note : Can chose more than 1"
+"2023/05/24 12:44:30 AM GMT+8","Lidah Mertua"
+"2023/05/24 12:45:03 AM GMT+8","Lili Paris;Monstrea;Lidah Mertua;Gelombang Cinta;Pucuk Merah"
+"2023/05/24 12:45:06 AM GMT+8","Agglonema;Lili Paris;Alocasia;Monstrea;Lidah Mertua;Gelombang Cinta;Suplir"
+"2023/05/24 12:47:22 AM GMT+8","Agglonema;Lili Paris;Alocasia;Monstrea;Gelombang Cinta"
+"2023/05/24 12:55:05 AM GMT+8","Agglonema;Lili Paris;Alocasia"
+"2023/05/24 12:55:34 AM GMT+8","Agglonema;Lili Paris;Alocasia"
+"2023/05/24 12:56:27 AM GMT+8","Agglonema;Lili Paris;Alocasia;Monstrea;Gelombang Cinta;Suplir"
+"2023/05/24 12:58:19 AM GMT+8","Agglonema;Monstrea;Gelombang Cinta"
+"2023/05/24 1:01:09 AM GMT+8","Alocasia;Pucuk Merah"
+"2023/05/24 1:32:43 AM GMT+8","Lidah Mertua"
+"2023/05/24 1:37:10 AM GMT+8","Agglonema;Lili Paris;Pucuk Merah"
+"2023/05/24 1:37:29 AM GMT+8","Lili Paris;Monstrea"
+"2023/05/24 1:37:46 AM GMT+8","Lidah Mertua;Gelombang Cinta"
+"2023/05/24 1:38:03 AM GMT+8","Lili Paris;Lidah Mertua;Pucuk Merah"
+"2023/05/24 1:38:19 AM GMT+8","Agglonema;Monstrea;Lidah Mertua"
+"2023/05/24 1:38:32 AM GMT+8","Alocasia;Monstrea"
+"2023/05/24 1:41:24 AM GMT+8","Monstrea"
+"2023/05/24 1:45:28 AM GMT+8","Agglonema;Monstrea;Pucuk Merah"
+"2023/05/24 1:54:45 AM GMT+8","Agglonema;Lili Paris;Monstrea;Lidah Mertua;Gelombang Cinta;Suplir"
+"2023/05/24 2:17:47 AM GMT+8","Agglonema;Lili Paris;Alocasia;Monstrea;Lidah Mertua;Gelombang Cinta;Suplir;Pucuk Merah"
+"2023/05/24 5:38:05 AM GMT+8","Agglonema;Lili Paris;Alocasia;Lidah Mertua;Gelombang Cinta;Pucuk Merah"
+"2023/05/24 6:57:56 AM GMT+8","Agglonema;Lili Paris;Lidah Mertua"
+"2023/05/24 8:16:48 AM GMT+8","Agglonema"
+"2023/05/24 9:29:46 AM GMT+8","Agglonema;Alocasia;Suplir"
+"2023/05/24 9:34:18 AM GMT+8","Monstrea;Lidah Mertua;Pucuk Merah"
+"2023/05/24 9:40:21 AM GMT+8","Monstrea"
+"2023/05/24 9:44:19 AM GMT+8","Suplir"
+"2023/05/24 9:53:28 AM GMT+8","Agglonema;Pucuk Merah"
+"2023/05/24 9:58:07 AM GMT+8","Lili Paris;Lidah Mertua;Pucuk Merah"
+"2023/05/24 10:02:00 AM GMT+8","Agglonema;Alocasia;Gelombang Cinta;Pucuk Merah"
+"2023/05/24 10:11:17 AM GMT+8","Monstrea"
+"2023/05/24 10:11:57 AM GMT+8","Agglonema;Lili Paris;Pucuk Merah"
+"2023/05/24 10:34:42 AM GMT+8","Monstrea;Lidah Mertua;Pucuk Merah"
+"2023/05/24 10:37:41 AM GMT+8","Monstrea"
+"2023/05/24 10:45:33 AM GMT+8","Monstrea"
+"2023/05/24 10:48:23 AM GMT+8","Alocasia;Monstrea;Gelombang Cinta"
+"2023/05/24 11:06:35 AM GMT+8","Agglonema;Monstrea"
+"2023/05/24 11:16:14 AM GMT+8","Agglonema;Monstrea;Pucuk Merah"
+"2023/05/24 11:22:04 AM GMT+8","Lili Paris;Alocasia;Pucuk Merah"
+"2023/05/24 11:36:16 AM GMT+8","Monstrea;Lidah Mertua"
+"2023/05/24 12:14:02 PM GMT+8","Agglonema"
+"2023/05/24 12:15:17 PM GMT+8","Agglonema;Monstrea;Lidah Mertua"
+"2023/05/24 12:16:55 PM GMT+8","Agglonema"
+"2023/05/24 1:34:53 PM GMT+8","Agglonema;Alocasia;Monstrea"
+"2023/05/24 2:16:22 PM GMT+8","Agglonema;Alocasia;Monstrea"
+"2023/05/24 11:16:10 PM GMT+8","Lili Paris;Monstrea;Lidah Mertua;Pucuk Merah"
+"2023/05/25 12:09:35 AM GMT+8","Lili Paris"
+"2023/05/27 12:25:03 PM GMT+8","Agglonema;Lili Paris;Monstrea;Gelombang Cinta;Pucuk Merah"
