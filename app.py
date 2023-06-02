@@ -28,7 +28,7 @@ with col1:
         st.image(bytes_data)
 
         with st.spinner('Predicting...'):
-            img = image.load_img(uploaded_files, target_size=(200,200))
+            img = image.load_img(uploaded_files, target_size=(300,300))
             x = image.img_to_array(img)
             x = x/255.0
             x = np.expand_dims(x, axis=0)
