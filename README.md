@@ -57,5 +57,5 @@ streamlit run app.py
 ![Alt Text](https://github.com/ornaman-dev/Bangkit-MachineLearning/blob/Image-Classification/Assets/demo.gif)
 
 ### Link Preview
-<a href = 'https://alexanderjanuar-bangkit-machinelearning-app-image-classi-ciqo1j.streamlit.app/' target="_blank">Click Here</a>
+<a href = 'https://alexanderjanuar-bangkit-machinelearning-app-1akhyx.streamlit.app/' target="_blank">Click Here</a>
 
